@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "InteractionEnergy", "InteractionEnergy\InteractionEnergy.pyproj", "{7872B229-FD2D-4DC9-A1AB-86E3AA6D8F5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7872B229-FD2D-4DC9-A1AB-86E3AA6D8F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7872B229-FD2D-4DC9-A1AB-86E3AA6D8F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54652AA8-1BDB-457A-83E8-C0B431FBE4B7}
+	EndGlobalSection
+EndGlobal

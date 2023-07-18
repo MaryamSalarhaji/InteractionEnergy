@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>7872b229-fd2d-4dc9-a1ab-86e3aa6d8f5b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>2_4.py</StartupFile>
+    <StartupFile>PowerOfTwo.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,9 @@
   <ItemGroup>
     <Compile Include="2_4.py" />
     <Compile Include="InteractionEnergy.py" />
+    <Compile Include="ithHello.py" />
+    <Compile Include="module1.py" />
+    <Compile Include="PowerOfTwo.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
